@@ -1,0 +1,8 @@
+Day 1:
+The Last Week of My Web Development Journey
+
+Last week, I felt very sad because I was under a lot of pressure while working on the JavaScript capstone project. It was my first time doing a capstone, collaborating with a partner, and using GitHub—all of these were completely new experiences for me. Through this process, I came to understand the immense pressure that IT professionals must endure and why they are paid such high salaries. They spend countless hours working with computers every day and put in tremendous effort to think of solutions to fix bugs and tackle the problems they encounter.
+
+During my studies, there were moments when I wanted to give up and allow myself to relax. However, I kept reminding myself to push through these challenges. I realized that overcoming difficulties now will give me the strength and resilience I need to face the real world when I start working.
+
+Currently, I am continuing to learn React and practice algorithms on LeetCode. Additionally, during my free time, I am working hard to improve my English skills. I believe that mastering English will help me grow both personally and professionally in the future.
