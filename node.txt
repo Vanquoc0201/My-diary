@@ -1,21 +1,29 @@
-Day 1:
+Day 1(26/12/24):
 The Last Week of My Web Development Journey
 
 Last week, I felt very sad because I was under a lot of pressure while working on the JavaScript capstone project. It was my first time doing a capstone, collaborating with a partner, and using GitHub—all of these were completely new experiences for me. Through this process, I came to understand the immense(bao la) pressure that IT professionals must endure(chịu đựng) and why they are paid such high salaries. They spend countless(vô số) hours working with computers every day and put in tremendous(to lớn) effort to think of solutions to fix bugs and tackle the problems they encounter(bắt gặp).
 
+
 During my studies, there were moments when I wanted to give up and allow myself to relax. However, I kept reminding myself to push through these challenges. I realized that overcoming difficulties now will give me the strength and resilience(sự kiên cường) I need to face the real world when I start working.
 
 Currently, I am continuing to learn React and practice algorithms on LeetCode. Additionally, during my free time, I am working hard to improve my English skills. I believe that mastering English will help me grow both personally and professionally in the future.
-Day 2:
-
+Day 2(27/12/24):
 During my journey of learning web development, I have come to realize many things that I hadn’t noticed before. First, I have started focusing on more important aspects(khía cạnh) of my life. I no longer spend hours playing games or watching YouTube late at night. Instead, I dedicate(cống hiến:dành thời gian) my time to studying web development, improving my English, and practicing algorithms on LeetCode. These activities leave me with little free time to think about anything unrelated(không liên quan) to my goals. Day by day, I strive(phấn đấu) to develop myself as quickly as possible.
 
 Second, this process has significantly upgraded my skills and equipped me with valuable knowledge about web development. At just 18 years old, I feel proud of myself because I am preparing for an internship next year, with the possibility of working professionally by my second or third year in university.
 
 Finally, this journey has taught me patience and perseverance(kiên trì) on the path I have chosen. I know that learning programming is challenging, but I have never considered giving up because I am determined to achieve my goals. I promise myself to stay disciplined(kỷ luật) every day and not quit, as I am getting closer to success. After all, there is no place for laziness on the road to achieving great things.
-Day 3:
+
+Day 3(29/12/24):
 During my journey of learning web development as a freshman(sinh viên năm nhất), I chose a unique path for myself by deciding to specialize(chuyên môn hóa) in web development as early as possible. Although I could have focused on studying general subjects at school to compete for scholarships(học bổng), I decided to learn coding early, hoping that these practical skills would greatly benefit me during the job application process.
 
 Some people might say that I am overthinking(lo xa) because I am only a freshman and have started learning programming(lập trình) so early. However, I do not see it that way. My field(lĩnh vực) is rapidly growing and becoming more competitive every day, leaving no room for individuals(cá nhân) without experience. Large tech companies now prefer hiring candidates(ứng viên) with two to three years of experience, as they do not want to spend time training employees from scratch(từ đầu).
 
 I completely agree with this perspective(quan điểm) because if I succeed in interviews, I want to be ready to start working immediately without requiring extensive(chuyên sâu) training. By building my skills now, I believe I am preparing myself for a competitive job market and increasing my chances of landing(đạt được) my dream role in the future.
+Day 4 (31/12/2024 - The last day of the year)
+In recent days, I have been feeling very lazy and undisciplined with myself. For instance, yesterday I didn’t study anything or complete my homework for Cybersoft. This even led the admin to remind me that if I keep being so lazy, it will be difficult for me to graduate from the frontend course and secure a high-paying job in my field.
+I sincerely(trân trọng) apologize to myself for pampering(nuông chiều) my laziness. Starting today, I will regain my discipline and strive to study productively. Here are the goals I have set for myself:
+By February next year, I aim to complete all the documentation on Tailwind, CSS, Bootstrap, and HTML. (In the frontend course, I fell behind on these two topics, so I am currently unable to code a beautiful user interface for myself.) My objective(mục tiêu khách quan) is to be able to create a visually appealing(hấp dẫn) UI.
+By March next year, I will improve my English skills to a basic conversational level. This will help me understand technical terms in my field, communicate effectively with clients, and acquire(giành được) the knowledge needed to write a professional CV when applying for web development positions.
+From that point, I plan to work as a freelancer while also interning at Cybersoft to gain practical experience in the frontend field.
+I believe in myself—I have said it, and I will achieve it. Let’s not let ourselves fall into darkness; instead, let’s rise up(đứng lên) and strive for success.
