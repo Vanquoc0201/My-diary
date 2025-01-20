@@ -93,3 +93,24 @@ Today, I completed the first day of my final exams and achieved results beyond(v
 There is a saying that you will never know your true potential(tiềm năng) until you push yourself to the limit. Do you think this statement is true? As for me, I completely agree with it, and I’d like to share my thoughts on this.
 In my view, each person’s potential is an unknown variable—no one truly knows their limits, including me. There have been times when I achieved the daily goals I set for myself but still felt that I could have accomplished even more. There are people who go far beyond their goals every day, and only by doing so do they achieve success. Reflecting on(suy ngẫm) this, I realized that I want to be like them—to set more ambitious(tham vọng) goals for myself and continuously strive to improve, rather than just being satisfied with completing my initial objectives.
 For instance, I want to become proficient(thành thạo) in English so that I can communicate and work in an international environment. To achieve this, I need to dedicate a significant amount of time to practicing writing, speaking, and understanding how things work in such settings. Improving my English skills involves not only writing blogs, learning new vocabulary, and practicing speaking through apps but also preparing for IELTS tests, writing essays(bài luận) on various topics in English, and listening to podcasts daily to get familiar with the language. Similarly(tương tự), in programming, I need to code more frequently to enhance my logical thinking and problem-solving skills.
+Day 17(20/1/2025):
+Fresh water is a limited resource in some parts of the world. Today, increasing demand made it a global
+problem. What are the causes? What are the solutions?
+In some regions around the world, water scarcity has become a prevalent issue that negatively affects many individuals.
+In this day and age, with the surging demand for fresh water, it has become a global problem.
+Although water scarcity has long been a major issues in some regions around the world, it has become much more
+serious due to the increasing demand for fresh water.In this essay, I would explore the reasons behind the issue before proposing
+some effective solutions that can handle it.
+1.Topic sentence: There are some reasons that explain why lack of fresh water has become a major global issue around the world. As the world pollution has increased/Although
+uncontrollably and continously reached a new peak, many industrial and agricultural activities have been intensified, leading to pollution. Eventually
+, fresh water becomes contaminated, limiting access to it and leading to water scarcity. Also, as more people require fresh water, its demand has become too
+much for the current supply to handle, worsening the lack of fresh water on an international scale. /Although the overall amount
+of water around the world has not diminished, fresh water become less accessible due to pollution from industrial and agricultural activities. 
+Unfortunately, as the international population soars uncontrollably, the demand surges, making it hard for many groups of people to get a hold
+of comsumable water.
+2.Despite the severity of this issue, there are some effective solutions that can be applied for handling it effectively.First and foremost, applying modern technology to create
+sustainable solutions for industrial and agricultural activities is highly important as the supply of food and products can be kept without leading to more harmful wastewater being discharged
+.Furthermore, improved water-treating plants should be applied more widely, which can be used to filter water on even remove salt from ocean water to increase the overall supply.
+With these approaches, human beings around the world may not have to face water scarcity in the future more /First and foremost, sustainable practices should
+be applied in agricultural and industrial production, which helps limit the amounts of harmful wastewater being discharged. Also, the goverment should invest in improving the
+quality of water-treating plants, helping it filter water more effectively and improve the level of supply for fresh water
