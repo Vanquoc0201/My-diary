@@ -1,0 +1,162 @@
+ Phân tích cấu trúc đề thi IELTS
+Bài thi IELTS có 4 kỹ năng: Listening, Reading, Writing, Speaking, với tổng thời gian khoảng 2 giờ 45 phút. Có 2 dạng bài thi chính:
+
+IELTS Academic (Học thuật) – dành cho người muốn du học hoặc làm việc trong môi trường học thuật.
+IELTS General Training (Tổng quát) – dành cho người muốn di cư hoặc làm việc trong môi trường không yêu cầu chuyên môn cao.
+Vì bạn là Fullstack Developer và có thể hướng tới làm việc quốc tế, mình khuyến nghị bạn thi IELTS Academic.
+
+1. Listening (Nghe) – 40 phút
+📌 Cấu trúc: 4 phần (40 câu)
+
+Part 1: Hội thoại hằng ngày (2 người)
+Part 2: Độc thoại về một chủ đề đời sống
+Part 3: Hội thoại mang tính học thuật (2-3 người)
+Part 4: Độc thoại mang tính học thuật
+🎯 Mục tiêu Band 7.0+
+
+Nghe hiểu ý chính và chi tiết
+Quen với giọng Anh - Mỹ - Úc
+Ghi nhớ từ khóa, tránh mất điểm vì lỗi chính tả
+📌 Chiến lược:
+
+Luyện tập bằng BBC News, TED Talks, The IELTS Listening Test trên YouTube
+Note-taking nhanh bằng từ khóa
+Tập nghe không phụ đề, sau đó kiểm tra transcript
+2. Reading (Đọc) – 60 phút
+📌 Cấu trúc: 3 đoạn văn (40 câu)
+
+Bài đọc 1: Dễ, thường là bài báo hoặc nghiên cứu
+Bài đọc 2: Trung bình, liên quan đến học thuật hoặc khoa học
+Bài đọc 3: Khó nhất, phân tích sâu, từ vựng chuyên môn
+🎯 Mục tiêu Band 7.0+
+
+Đọc nhanh và xác định main idea
+Hiểu các dạng câu hỏi như: True/False/Not Given, Matching Headings, Sentence Completion
+Nhận diện từ đồng nghĩa (synonyms)
+📌 Chiến lược:
+
+Luyện skimming (đọc lướt) & scanning (tìm từ khóa)
+Luyện Cambridge IELTS 12-18 + The Guardian, New York Times
+Học 1000 từ vựng Academic Word List
+3. Writing (Viết) – 60 phút
+📌 Cấu trúc: 2 bài
+
+Task 1 (20 phút, 150 từ): Mô tả biểu đồ, bản đồ, quy trình
+Task 2 (40 phút, 250 từ): Viết bài luận về một vấn đề xã hội
+🎯 Mục tiêu Band 7.0+
+
+Task 1: Phân tích số liệu, so sánh xu hướng
+Task 2: Lập luận logic, sử dụng từ vựng học thuật
+📌 Chiến lược:
+
+Học cấu trúc bài viết chuẩn của Simon IELTS, The Writing Practice
+Học 20-30 cụm từ academic để tăng điểm lexical resource
+Luyện viết mỗi ngày, gửi bài lên Grammarly hoặc nhờ sửa lỗi
+4. Speaking (Nói) – 11-14 phút
+📌 Cấu trúc: 3 phần
+
+Part 1: Giới thiệu bản thân, hỏi về sở thích, công việc
+Part 2: Nói 2 phút về một chủ đề ngẫu nhiên
+Part 3: Thảo luận sâu về chủ đề trong Part 2
+🎯 Mục tiêu Band 7.0+
+
+Phát âm rõ, sử dụng từ vựng học thuật và idioms
+Câu trả lời có ý tưởng mạch lạc, không bị lặp từ
+📌 Chiến lược:
+
+Luyện với AI (TalkPal, Elsa Speak) hoặc partner
+Ghi âm câu trả lời, nghe lại và cải thiện phát âm
+Học cách mở rộng câu trả lời bằng ví dụ, lý do
+------------------------------------------------------------------------------------------------------------
+ Giai đoạn 1 (Tháng 1 - Tháng 3): Củng cố nền tảng, tập trung Listening + Speaking
+🎯 Mục tiêu:
+✅ Nghe hiểu cơ bản, nhận diện từ khóa khi nghe người bản xứ nói
+✅ Học phát âm chuẩn, luyện câu giao tiếp thông dụng
+✅ Mở rộng từ vựng cơ bản (1000 từ phổ biến)
+
+⏳ Mỗi buổi học (4 giờ) nên chia thời gian như sau:
+
+Listening (1.5h):
+Nghe podcast (BBC 6 Minute English, The Verge Cast)
+Xem video TED Talks, YouTube (English Addict with Mr. Steve)
+Nghe 2 lần có script, 1 lần không script
+Speaking (1.5h):
+Luyện phát âm với ELSA Speak, TalkPal AI
+Tự nói về các chủ đề đơn giản, mô tả công việc, sở thích
+Nhại lại câu nói của người bản xứ (shadowing technique)
+Vocabulary & Grammar (1h):
+Học 100 từ vựng IT + Business English mỗi tháng
+Luyện ngữ pháp cơ bản (12 thì, câu điều kiện, mệnh đề quan hệ)
+📌 Giai đoạn 2 (Tháng 4 - Tháng 6): Nâng cao kỹ năng giao tiếp, bắt đầu Writing
+🎯 Mục tiêu:
+✅ Nghe hiểu nội dung phức tạp hơn, phản xạ nói nhanh hơn
+✅ Viết email, tài liệu kỹ thuật cơ bản bằng tiếng Anh
+✅ Từ vựng mở rộng lên 2000 từ (chuyên ngành + giao tiếp)
+
+⏳ Mỗi buổi học (4 giờ):
+
+Listening (1h): Nghe hội thoại thực tế (BBC Learning English, The Office Podcast)
+Speaking (1.5h):
+Trả lời câu hỏi phỏng vấn IT bằng tiếng Anh
+Tham gia các group Discord nói chuyện với người nước ngoài
+Writing (1h): Viết blog, email đơn giản, feedback công việc
+Vocabulary & Grammar (0.5h): Học idioms, phrasal verbs
+🔥 Mốc quan trọng:
+
+Có thể nghe và hiểu 70% nội dung hội thoại về công việc
+Trả lời các câu hỏi phỏng vấn IT trôi chảy hơn
+Viết email đơn giản mà không cần Google Dịch
+📌 Giai đoạn 3 (Tháng 7 - Tháng 9): Mô phỏng môi trường làm việc thực tế
+🎯 Mục tiêu:
+✅ Giao tiếp tự nhiên, tham gia họp bằng tiếng Anh
+✅ Viết báo cáo, tài liệu kỹ thuật tốt hơn
+✅ Sử dụng tiếng Anh trong dự án thực tế
+
+⏳ Mỗi buổi học (4 giờ):
+
+Listening (1h): Xem video hội thảo công nghệ, YouTube DevOps
+Speaking (1.5h):
+Thuyết trình về một chủ đề IT bằng tiếng Anh
+Luyện phản xạ nhanh bằng cách trả lời câu hỏi ngẫu nhiên
+Writing (1h): Viết báo cáo về một dự án đã làm
+Vocabulary & Grammar (0.5h): Luyện cấu trúc câu nâng cao
+🔥 Mốc quan trọng:
+
+Có thể tham gia cuộc họp team bằng tiếng Anh
+Viết tài liệu kỹ thuật, pull request, bug report
+Giao tiếp tốt hơn với đồng nghiệp quốc tế
+📌 Giai đoạn 4 (Tháng 10 - Tháng 12): Thành thạo & thực chiến
+🎯 Mục tiêu:
+✅ Giao tiếp tự tin 100% trong môi trường làm việc quốc tế
+✅ Tham gia phỏng vấn IT hoàn toàn bằng tiếng Anh
+✅ Có thể mentor junior bằng tiếng Anh
+
+⏳ Mỗi buổi học (4 giờ):
+
+Listening (1h): Nghe hội thoại chuyên sâu (Fireship, Lex Fridman Podcast)
+Speaking (1.5h):
+Mô phỏng cuộc họp stand-up hàng ngày bằng tiếng Anh
+Thực hiện mock interview với bạn bè
+Writing (1h): Viết bài thuyết trình, báo cáo chuyên môn
+Vocabulary & Grammar (0.5h): Học từ chuyên ngành sâu hơn
+🔥 Mốc quan trọng:
+
+Tự tin ứng tuyển job quốc tế, phỏng vấn bằng tiếng Anh
+Giao tiếp lưu loát trong môi trường DevOps, Fullstack
+Đủ khả năng làm việc với team nước ngoài
+📌 Công cụ hỗ trợ học tiếng Anh
+📌 Listening & Speaking
+
+BBC Learning English, The Verge Cast, Syntax.fm
+ELSA Speak, TalkPal AI
+Italki (tìm partner luyện nói)
+📌 Reading & Writing
+
+Grammarly (kiểm tra lỗi viết)
+Hemingway Editor (giúp viết đơn giản, dễ hiểu hơn)
+Oxford Learner's Dictionary (học từ vựng chuẩn Anh-Anh)
+📌 Practice & Community
+
+LeetCode Discuss (đọc & viết bằng tiếng Anh)
+Reddit r/learnenglish (thực hành giao tiếp)
+Discord English Servers (tìm partner luyện nói)
